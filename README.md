@@ -1,2 +1,3 @@
 # hello-world
 Hello world, my first task in GitHub
+I'm trying to learn some coding...
